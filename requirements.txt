@@ -1,0 +1,9 @@
+numpy
+ipywidgets
+widgetsnbextension
+pandas-profiling
+jupyterlab
+jupyterlab_code_formatter
+black`
+isort
+jupyterlab-spellchecker==0.7.2
