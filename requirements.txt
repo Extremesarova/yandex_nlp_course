@@ -4,6 +4,6 @@ widgetsnbextension
 pandas-profiling
 jupyterlab
 jupyterlab_code_formatter
-black`
+black
 isort
 jupyterlab-spellchecker==0.7.2
