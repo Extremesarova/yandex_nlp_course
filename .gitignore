@@ -6,3 +6,5 @@ __pycache__
 data/
 *.csv
 *.pth
+*.json
+*.gz
